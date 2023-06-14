@@ -1,0 +1,470 @@
+,name,overall,position,club
+0,Kevin De Bruyne,91,CM,Manchester City
+1,Cristiano Ronaldo,90,ST,Manchester Utd
+2,Mohamed Salah,90,RW,Liverpool
+3,Virgil van Dijk,90,CB,Liverpool
+4,Heung Min Son,89,LW,Spurs
+5,Casemiro,89,CDM,Manchester Utd
+6,Alisson,89,GK,Liverpool
+7,Harry Kane,89,ST,Spurs
+8,Ederson,89,GK,Manchester City
+9,N'Golo Kanté,89,CDM,Chelsea
+10,Keylor Navas,88,GK,Nott'm Forest
+11,Joao Cancelo,88,LB,Manchester City
+12,Ruben Dias,88,CB,Manchester City
+13,Bernardo Silva,88,CAM,Manchester City
+14,Erling Haaland,88,ST,Manchester City
+15,Kalidou Koulibaly,87,CB,Chelsea
+16,Hugo Lloris,87,GK,Spurs
+17,David De Gea,87,GK,Manchester Utd
+18,Rodri,87,CDM,Manchester City
+19,Trent Alexander-Arnold,87,RB,Liverpool
+20,Andrew Robertson,87,LB,Liverpool
+21,Fabinho,87,CDM,Liverpool
+22,Aymeric Laporte,86,CB,Manchester City
+23,Édouard Mendy,86,GK,Chelsea
+24,Thiago Silva,86,CB,Chelsea
+25,Raheem Sterling,86,LW,Chelsea
+26,Thiago,86,CM,Liverpool
+27,Riyad Mahrez,86,RW,Manchester City
+28,Bruno Fernandes,86,CAM,Manchester Utd
+29,Diogo Jota,85,CF,Liverpool
+30,Phil Foden,85,LW,Manchester City
+31,Ilkay Gündogan,85,CM,Manchester City
+32,Jorginho,85,CM,Arsenal
+33,Aubameyang,85,ST,Chelsea
+34,Jamie Vardy,85,ST,Leicester City
+35,Kyle Walker,85,RB,Manchester City
+36,Jorginho,85,CM,Chelsea
+37,Ivan Perisic,84,LM,Spurs
+38,Reece James,84,RWB,Chelsea
+39,Mateo Kovacic,84,CM,Chelsea
+40,Declan Rice,84,CDM,West Ham
+41,Youri Tielmans,84,CM,Leicester City
+42,Martin Odegaard,84,CAM,Arsenal
+43,Jadon Sancho,84,LW,Manchester Utd
+44,Thomas Partey,84,CDM,Arsenal
+45,Kai Havertz,84,CAM,Chelsea
+46,João Félix,84,CF,Chelsea
+47,Kieran Trippier,84,RB,Newcastle Utd
+48,Wilfred Ndidi,84,CDM,Leicester City
+49,Raphaël Varane,84,CB,Manchester Utd
+50,Emiliano Martínez,84,GK,Aston Villa
+51,Mason Mount,84,CAM,Chelsea
+52,Joel Matip,84,CB,Liverpool
+53,Jack Grealish,84,LW,Manchester City
+54,Luis Diaz,84,LW,Liverpool
+55,Jordan Ayew,83,RW,Crystal Palace
+56,Hakim Ziyech,83,RW,Chelsea
+57,Cody Gakpo,83,LW,Liverpool
+58,Cristian Romero,83,CB,Spurs
+59,Diego Carlos,83,CB,Aston Villa
+60,Ricardo Pereira,83,RB,Leicester City
+61,Pierre-Emile Højbjerg,83,CDM,Spurs
+62,Gabriel Jesus,83,ST,Arsenal
+63,John Stones,83,CB,Manchester City
+64,Rúben Neves,83,CM,Wolves
+65,Roberto Firmino,83,CF,Liverpool
+66,Jordan Henderson,83,CM,Liverpool
+67,Jordan Pickford,82,GK,Everton
+68,Darwin Nunez,82,ST,Liverpool
+69,Bukayo Saka,82,RM,Arsenal
+70,Wilfred Zaha,82,LW,Crystal Palace
+71,Anthony,82,RW,Manchester Utd
+72,Aaron Ramsdale,82,GK,Arsenal
+73,Lucas Digne,82,LB,Aston Villa
+74,Christian Pulisic,82,LW,Chelsea
+75,Arnaut Danjuma,82,LM,Spurs
+76,Łukasz Fabiański,82,GK,West Ham
+77,Idrissa Gueye,82,CDM,Everton
+78,James Maddison,82,CAM,Leicester City
+79,Azpilicueta,82,CB,Chelsea
+80,Ben Chilwell,82,LWB,Chelsea
+81,Lisandro Martínez,81,CB,Manchester Utd
+82,Neto,81,GK,AFC Bournemouth
+83,Kalvin Phillips,81,CDM,Manchester City
+84,Bruno Guimarães,81,CM,Newcastle Utd
+85,Yves Bissouma,81,CDM,Spurs
+86,Manuel Akanji,81,CB,Manchester City
+87,Matheus Cunha,81,ST,Wolves
+88,Richarlison,81,ST,Spurs
+89,Dejan Kulusevski,81,RW,Spurs
+90,Denis Zakaria,81,CDM,Chelsea
+91,Pablo Sarabia,81,RW,Wolves
+92,João Moutinho,81,CM,Wolves
+93,Allan Saint-Maximin,81,LM,Newcastle Utd
+94,Marcus Rashford,81,LW,Manchester Utd
+95,José Sá,81,GK,Wolves
+96,Joe Gomez,81,CB,Liverpool
+97,Naby Keïta,81,CM,Liverpool
+98,Cucurella,81,LB,Chelsea
+99,Nick Pope,81,GK,Newcastle Utd
+100,Alphonso Areola,81,GK,West Ham
+101,Palhinha,81,CDM,Fulham
+102,Felipe,81,CB,Nott'm Forest
+103,Pedro Porro,81,RWB,Spurs
+104,Scott McTominay,80,CDM,Manchester Utd
+105,Nélson Semedo,80,RWB,Wolves
+106,Smith Rowe,80,LM,Arsenal
+107,Luis Sinisterra,80,LW,Leeds United
+108,Lucas Moura,80,RW,Spurs
+109,Allan Marques Loureiro,80,CDM,Everton
+110,Emiliano Buendía,80,RM,Aston Villa
+111,Arthur,80,CM,Liverpool
+112,Eric Dier,80,CB,Spurs
+113,Remo Freuler,80,CM,Nott'm Forest
+114,Renan Lodi,80,LB,Nott'm Forest
+115,Victor Lindelöf,80,CB,Manchester Utd
+116,Stefan Ortega,80,GK,Manchester City
+117,Nayef Aguerd,80,CB,West Ham
+118,Bernd Leno,80,GK,Fulham
+119,Vladimír Coufal,80,RB,West Ham
+120,Kepa Arrizabalaga,80,GK,Chelsea
+121,Gianluca Scamacca,80,ST,West Ham
+122,Aaron Wan-Bissaka,80,RB,Manchester Utd
+123,Sven Botman,80,CB,Newcastle Utd
+124,Weston McKennie,80,CM,Leeds United
+125,Marcel Sabitzer,80,CM,Manchester Utd
+126,Álex Moreno,80,LB,Aston Villa
+127,Fred,80,CM,Manchester Utd
+128,Martin Dúbravka,80,GK,Newcastle Utd
+129,William Saliba,80,CB,Arsenal
+130,Michael Keane,79,CB,Everton
+131,John McGinn,79,CM,Aston Villa
+132,Ben Davies,79,CB,Spurs
+133,Donny van de Beek,79,CM,Manchester Utd
+134,Wesley Fofana,79,CB,Chelsea
+135,Guaita,79,GK,Crystal Palace
+136,Jonny,79,LWB,Wolves
+137,Matheus Nunes,79,CM,Wolves
+138,Conor Gallagher,79,CM,Chelsea
+139,Conor Coady,79,CB,Everton
+140,Ben White,79,CB,Arsenal
+141,Tyrell Malacia,79,LB,Manchester Utd
+142,James Tarkowski,79,CB,Everton
+143,Abdoulaye Doucouré,79,CM,Everton
+144,Adama Traoré,79,RW,Wolves
+145,Granit Xhaka,79,CDM,Arsenal
+146,Leandro Trossard,79,LM,Brighton
+147,Lewis Dunk,79,CB,Brighton
+148,Pervis Estupiñán,79,LB,Brighton
+149,Manuel Lanzini,79,CAM,West Ham
+150,Takehiro Tomiyasu,79,RB,Arsenal
+151,Angelo Ogbonna,79,CB,West Ham
+152,Jonny Evans,79,CB,Leicester City
+153,Wout Weghorst,79,ST,Manchester Utd
+154,Leandro Trossard,79,LM,Arsenal
+155,Danny Ings,79,ST,West Ham
+156,Onuachu,79,ST,Southampton
+157,Michail Antonio,79,ST,West Ham
+158,Duje Ćaleta-Car,78,CB,Southampton
+159,Kyle Walker-Peters,78,RB,Southampton
+160,Diogo Dalot,78,RB,Manchester Utd
+161,Saša Kalajdžić,78,ST,Wolves
+162,Daniel Podence,78,LW,Wolves
+163,James Milner,78,CM,Liverpool
+164,Marcos Senesi,78,CB,AFC Bournemouth
+165,Jesse Lingard,78,CAM,Nott'm Forest
+166,Çağlar Söyüncü,78,CB,Leicester City
+167,Clément Lenglet,78,CB,Spurs
+168,Dennis Praet,78,CAM,Leicester City
+169,Aleksandar Mitrović,78,ST,Fulham
+170,Miguel Almirón,78,RM,Newcastle Utd
+171,Marc Guehi,78,CB,Crystal Palace
+172,Emerson,78,RWB,Spurs
+173,Timothy Castagne,78,RB,Leicester City
+174,Thomas Strakosha,78,GK,Brentford
+175,Ben Mee,78,CB,Brentford
+176,Aaron Cresswell,78,LB,West Ham
+177,Willy Boly,78,CB,Nott'm Forest
+178,Saïd Benrahma,78,LM,West Ham
+179,Frédéric Guilbert,78,RWB,Aston Villa
+180,Gabriel Martinelli,78,LM,Arsenal
+181,Daniel James,77,RM,Fulham
+182,Issa Diop,77,CB,Fulham
+183,Emerson,77,LB,West Ham
+184,Robert Sanchéz,77,GK,Brighton
+185,Kevin Mbabu,77,RB,Fulham
+186,Jonjo Shelvey,77,CM,Nott'm Forest
+187,Saša Lukic,77,CM,Fulham
+188,Kouyaté,77,CDM,Nott'm Forest
+189,Noni Madueke,77,RW,Chelsea
+190,Mislav Oršic,77,LW,Southampton
+191,Benoît Badiashile,77,CB,Chelsea
+192,Bryan Gil Salvatierra,77,LM,Spurs
+193,Jonjo Shelvey,77,CM,Newcastle Utd
+194,Illan Meslier,77,GK,Leeds United
+195,Ludwig Augustinsson,77,LB,Aston Villa
+196,Demarai Gray,77,LM,Everton
+197,Patson Daka,77,ST,Leicester City
+198,Pascal Groß,77,CM,Brighton
+199,Matt Doherty,77,RWB,Spurs
+200,Taiwo Awoniyi,77,ST,Nott'm Forest
+201,Konstantinos Tsimikas,77,LB,Liverpool
+202,Joachim Andersen,77,CB,Crystal Palace
+203,Kelechi Iheanacho,77,ST,Leicester City
+204,Jack Harrison,77,LM,Leeds United
+205,Rodrigo,77,CAM,Leeds United
+206,Rasmus Kristensen,77,RB,Leeds United
+207,Fabian Schär,77,CB,Newcastle Utd
+208,Ivan Toney,77,ST,Brentford
+209,Ben Godfrey,77,CB,Everton
+210,Fraser Forster,76,GK,Spurs
+211,Liam Cooper,76,CB,Leeds United
+212,Séamus Coleman,76,RB,Everton
+213,Stuart Armstrong,76,RM,Southampton
+214,Rayan Aït Nouri,76,LWB,Wolves
+215,Harry Wilson,76,RM,Fulham
+216,Mohamed Elyounoussi,76,LM,Southampton
+217,Chris Wood,76,ST,Newcastle Utd
+218,Manor Solomon,76,LM,Fulham
+219,Pascal Struijk,76,CB,Leeds United
+220,Adam Webster,76,CB,Brighton
+221,Ryan Fraser,76,RM,Newcastle Utd
+222,Christian Nørgaard,76,CDM,Brentford
+223,Morgan Sanson,76,CM,Aston Villa
+224,Chalobah,76,CB,Chelsea
+225,Romain Perraud,76,LB,Southampton
+226,James Justin,76,LB,Leicester City
+227,Tyler Adams,76,CDM,Leeds United
+228,Odsonne Edouard,76,ST,Crystal Palace
+229,Eberechi Eze,76,CAM,Crystal Palace
+230,Marc Roca Junqué,76,CDM,Leeds United
+231,Jean-Philippe Mateta,76,ST,Crystal Palace
+232,Robin Koch,76,CB,Leeds United
+233,Carlos Vinícius Alves Morais,76,ST,Fulham
+234,Emmanuel Dennis,76,ST,Nott'm Forest
+235,Boubakary Soumaré,76,CDM,Leicester City
+236,Dwight McNeil,76,LM,Everton
+237,Andreas Hugo Hoelgebaum Pereira,76,CAM,Fulham
+238,Andros Townsend,76,RM,Everton
+239,Jeffrey Schlupp,76,LM,Crystal Palace
+240,Jan Bednarek,76,CB,Southampton
+241,Alexis Mac Allister,76,CAM,Brighton
+242,Vitaliy Mykolenko,76,LB,Everton
+243,Enock Mwepu,76,CM,Brighton
+244,Cheick Doucouré,76,CM,Crystal Palace
+245,Curtis Jones,76,CM,Liverpool
+246,Mikkel Damsgaard,76,LM,Brentford
+247,Tyrick Mitchell,76,LB,Crystal Palace
+248,Layvin Kurzawa,75,LB,Fulham
+249,Harrison Reed,75,CDM,Fulham
+250,Cédric,75,RB,Fulham
+251,Matias Viña,75,LWB,AFC Bournemouth
+252,Kamaldeen Sulemana,75,LW,Southampton
+253,Albert Sambi Lokonga,75,CM,Crystal Palace
+254,Marek Rodák,75,GK,Fulham
+255,Anthony Gordon,75,LM,Newcastle Utd
+256,Mason Holgate,75,CB,Everton
+257,Alex Iwobi,75,RM,Everton
+258,Jefferson Lerma,75,CDM,AFC Bournemouth
+259,Philip Billing,75,CM,AFC Bournemouth
+260,Tosin Adarabioyo,75,CB,Fulham
+261,Marvelous Nakamba,75,CDM,Aston Villa
+262,Joelinton,75,CM,Newcastle Utd
+263,Kristoffer Ajer,75,CB,Brentford
+264,Rico Henry,75,LWB,Brentford
+265,Dominic Solanke,75,ST,AFC Bournemouth
+266,Ayew,75,ST,Nott'm Forest
+267,Tom Davies,75,CM,Everton
+268,Joe Aribo,75,CM,Southampton
+269,Orel Mangala,75,CM,Nott'm Forest
+270,Yoane Wissa,75,LW,Brentford
+271,Ryan Sessegnon,75,LWB,Spurs
+272,Morgan Gibbs-White,75,CAM,Nott'm Forest
+273,Joseph Willock,75,CM,Newcastle Utd
+274,Ethan Pinnock,75,CB,Brentford
+275,Jannik Vestergaard,75,CB,Leicester City
+276,Cédric,75,RB,Arsenal
+277,Jordan Ayew,75,RW,Crystal Palace
+278,Joel Robles Blázquez,75,GK,Leeds United
+279,Mario Lemina,75,CM,Wolves
+280,Jacob Ramsey,75,CM,Aston Villa
+281,Anthony Gordon,75,LM,Everton
+282,Tino Livramento,75,RB,Southampton
+283,Djed Spence,75,RWB,Spurs
+284,Nathan Collins,75,CB,Wolves
+285,James McArthur,75,CDM,Crystal Palace
+286,Asmir Begović,75,GK,Everton
+287,Adam Lallana,75,CM,Brighton
+288,Marc Albrighton,75,RM,Leicester City
+289,Danny Welbeck,75,ST,Brighton
+290,Luke Ayling,75,RB,Leeds United
+291,Alex McCarthy,75,GK,Southampton
+292,Georginio Rutter,75,ST,Leeds United
+293,Karl Darlow,75,GK,Newcastle Utd
+294,Pontus Jansson,75,CB,Brentford
+295,Tom Cairney,75,CM,Fulham
+296,Junior Firpo,75,LB,Leeds United
+297,Axel Tuanzebe,74,CB,Manchester Utd
+298,Jakub Moder,74,CDM,Brighton
+299,Nampalys Mendy,74,CDM,Leicester City
+300,Moussa Djenepo,74,LM,Southampton
+301,Kiernan Dewsbury-Hall,74,CM,Leicester City
+302,Sean Longstaff,74,CM,Newcastle Utd
+303,Japhet Tanganga,74,RWB,Spurs
+304,Vitaly Janelt,74,CM,Brentford
+305,Luka Milivojević,74,CDM,Crystal Palace
+306,Bobby Decordova-Reid,74,RM,Fulham
+307,Mateusz Klich,74,CM,Leeds United
+308,Sergio Gómez Martín,74,LB,Manchester City
+309,Shane Duffy,74,CB,Fulham
+310,Adam Smith,74,RB,AFC Bournemouth
+311,Nathaniel Clyne,74,RB,Crystal Palace
+312,Salomón Rondón,74,ST,Everton
+313,Joel Ward,74,RB,Crystal Palace
+314,Wayne Hennessey,74,GK,Nott'm Forest
+315,Ryan Bertrand,74,LB,Leicester City
+316,Ibrahima Diallo,74,CDM,Southampton
+317,Ashley Young,74,LM,Aston Villa
+318,Brenden Aaronson,74,CAM,Leeds United
+319,Chris Richards,74,CB,Crystal Palace
+320,Kaoru Mitoma,74,LM,Brighton
+321,Amadou Onana,74,CDM,Everton
+322,Anthony Elanga,74,RW,Manchester Utd
+323,Jack Stephens,74,CB,AFC Bournemouth
+324,Mykhailo Mudryk,74,LM,Chelsea
+325,Ben Johnson,74,RB,West Ham
+326,Omar Richards,73,LB,Nott'm Forest
+327,Daniel Iversen,73,GK,Leicester City
+328,Lloyd Kelly,73,CB,AFC Bournemouth
+329,Rúben Vinagre,73,LWB,Everton
+330,Reiss Nelson,73,RW,Arsenal
+331,Josh Dasilva,73,CM,Brentford
+332,Tom Heaton,73,GK,Manchester Utd
+333,Scott McKenna,73,CB,Nott'm Forest
+334,Matt Ritchie,73,RM,Newcastle Utd
+335,Darren Randolph,73,GK,West Ham
+336,Lewis O'Brien,73,CM,Nott'm Forest
+337,Ryan Yates,73,CDM,Nott'm Forest
+338,Mark Travers,73,GK,AFC Bournemouth
+339,Eddie Nketiah,73,ST,Arsenal
+340,Frank Onyeka,73,CDM,Brentford
+341,Caoimhin Kelleher,73,GK,Liverpool
+342,Nathaniel Phillips,73,CB,Liverpool
+343,Brandon Williams,73,LB,Manchester Utd
+344,Harvey Elliott,73,CAM,Liverpool
+345,Armel Bella Kotchap,73,CB,Southampton
+346,Fabio Carvalho,73,CAM,Liverpool
+347,Loïc Badé,73,CB,Nott'm Forest
+348,Marcus Vincius Oliveira Alencar,73,RM,Arsenal
+349,Joe Gelhardt,72,ST,Leeds United
+350,Marcus Tavernier,72,CAM,AFC Bournemouth
+351,Harry Souttar,72,CB,Leicester City
+352,Billy Gilmour,72,CM,Brighton
+353,James Garner,72,CDM,Everton
+354,Jaidon Anthony,72,LW,AFC Bournemouth
+355,Sergi Canós Tenés,72,LW,Brentford
+356,Jamal Lewis,72,LB,Newcastle Utd
+357,Lyanco Neves Vojnovic,72,CB,Southampton
+358,Joe Rothwell,72,CM,AFC Bournemouth
+359,Sam Surridge,71,ST,Nott'm Forest
+360,Carlos Alcaraz,71,CAM,Southampton
+361,Neco Williams,71,RB,Nott'm Forest
+362,Keane Lewis-Potter,71,LW,Brentford
+363,Jan Paul van Hecke,71,CB,Brighton
+364,Pape Matar Sarr,71,CM,Spurs
+365,Jed Steer,71,GK,Aston Villa
+366,Jakub Kiwior,71,CDM,Arsenal
+367,Jamal Lowe,71,ST,AFC Bournemouth
+368,Chris Mepham,71,CB,AFC Bournemouth
+369,Levi Colwill,70,CB,Brighton
+370,Willy Caballero,70,GK,Southampton
+371,Cameron Archer,70,ST,Aston Villa
+372,Kevin Schade,70,RM,Brentford
+373,Nathan Baxter,70,GK,Chelsea
+374,Máximo Perrone,70,CM,Manchester City
+375,Antoine Semenyo,70,ST,AFC Bournemouth
+376,Jack Colback,69,CDM,Nott'm Forest
+377,Cafú,69,CDM,Nott'm Forest
+378,Toti,69,CB,Wolves
+379,Josh Onomah,69,CM,Fulham
+380,Mads Roerslev,69,RWB,Brentford
+381,Siriki Dembélé,69,ST,AFC Bournemouth
+382,Shandon Baptiste,69,CM,Brentford
+383,Crysencio Summerville,69,RM,Leeds United
+384,Di'Shon Bernard,69,CB,Manchester Utd
+385,Sékou Mara,69,ST,Southampton
+386,Lyle Taylor,69,ST,Nott'm Forest
+387,Francisco Jorge Tavares Oliveira,69,RW,Wolves
+388,Wilfried Gnonto,69,ST,Leeds United
+389,Charlie Goode,67,CB,Brentford
+390,Sam Greenwood,67,CAM,Leeds United
+391,Teden Mengi,67,CB,Manchester Utd
+392,Darío Sarmiento,67,RM,Manchester City
+393,Elliot Anderson,67,LW,Newcastle Utd
+394,Cole Palmer,67,RW,Manchester City
+395,Matthew Longstaff,67,CM,Newcastle Utd
+396,Kaine Kesler Hayden,67,RWB,Aston Villa
+397,Alex Mighten,67,LW,Nott'm Forest
+398,Jordan Smith,67,GK,Nott'm Forest
+399,Nathan Patterson,66,RB,Everton
+400,Conor Coventry,66,CM,West Ham
+401,Loïc Mbe Soh,66,CB,Nott'm Forest
+402,Santiago Muñoz,66,ST,Newcastle Utd
+403,Morgan Rogers,66,LW,Manchester City
+404,Jeremy Sarmiento,66,RM,Brighton
+405,David Datro Fofana,66,ST,Chelsea
+406,Gabriel Slonina,66,GK,Chelsea
+407,Scott Carson,65,GK,Manchester City
+408,Harry Arter,65,CDM,Nott'm Forest
+409,Boubacar Traoré,64,CM,Wolves
+410,Calvin Ramsay,64,RB,Liverpool
+411,Naouirou Ahamada,64,CM,Crystal Palace
+412,Joseph Anang,64,GK,West Ham
+413,Carney Chukwuemeka,64,CM,Chelsea
+414,Shola Shoretire,64,RM,Manchester Utd
+415,Matthew Smith,64,CM,Arsenal
+416,Karl Hein,64,GK,Arsenal
+417,James Hill,64,CB,AFC Bournemouth
+418,Kyle John,64,RB,Everton
+419,Harvey Vale,63,LW,Chelsea
+420,Alfie Whiteman,63,GK,Spurs
+421,Dango Ouattara,63,ST,AFC Bournemouth
+422,Miguel Azeez,63,CM,Arsenal
+423,Billy Koumetio,63,CB,Liverpool
+424,Julio César Enciso,63,RM,Brighton
+425,Jamie Bowden,63,CM,Spurs
+426,Jake Cain,62,CM,Liverpool
+427,Harrison Ashby,62,RB,West Ham
+428,Andy Lonergan,62,GK,Everton
+429,Yasin Ayari,61,CM,Brighton
+430,Luke Harris,61,CAM,Fulham
+431,Paris Maghoma,61,CM,Brentford
+432,Sonny Hilton,61,CAM,Fulham
+433,Owen Beck,61,LB,Liverpool
+434,Salah-Eddine Oulad M'Hand,61,CM,Arsenal
+435,James Norris,60,LB,Liverpool
+436,Hugo Bueno,60,LWB,Wolves
+437,Tyreik Wright,60,RM,Aston Villa
+438,Tyler Onyango,60,CM,Everton
+439,Armstrong Okoflex,60,LM,West Ham
+440,Alfie Devine,60,CAM,Spurs
+441,Chem Campbell,60,CAM,Wolves
+442,Luke Matheson,60,RB,Wolves
+443,Thanawat Suengchitthawon,60,CAM,Leicester City
+444,Matthew Cox,59,GK,Brentford
+445,Evan Ferguson,59,ST,Brighton
+446,Alex Gilbert,59,LW,Brentford
+447,Odel Offiah,59,CB,Brighton
+448,Garang Kuol,59,LM,Newcastle Utd
+449,White,58,CM,Newcastle Utd
+450,Lamare Bogarde,58,CB,Aston Villa
+451,Killian Phillips,58,CM,Crystal Palace
+452,Sonny Perkins,58,ST,Leeds United
+453,Tristan Crama,58,CB,Brentford
+454,Christian Marques,58,CB,Wolves
+455,Jack Wells-Morrison,57,CM,Crystal Palace
+456,Ryan Trevitt,57,CAM,Brentford
+457,Darko Gyabi,57,CM,Leeds United
+458,Lewis Richards,57,CB,Wolves
+459,Thierry Small,57,LWB,Southampton
+460,Dale Taylor,56,ST,Nott'm Forest
+461,Lucas Bergström,56,GK,Chelsea
+462,Max Woltman,56,ST,Liverpool
+463,Joshua Feeney,55,CB,Aston Villa
+464,Viljami Sinisalo,55,GK,Aston Villa
+465,George Shelvey,55,GK,Nott'm Forest
+466,Harry Birtwistle,55,RWB,Wolves
+467,Dexter Lembikisa,55,RWB,Wolves
+468,Tyler Roberts,55,RW,Wolves
