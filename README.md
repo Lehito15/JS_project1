@@ -17,6 +17,7 @@ Użytkownik w każdym momencie może zapisać stan gry i póżniej go wczytać.
 2. Team - klasa Team odpowiedzialna jest za poszczególny  zespół
 3. DataBase  - obsługa bazy danych
 4. scrapper.ipny - skrapowanie zawodników ze strony internetowej
+5. Player - klasa zawodnika
 
 
 
