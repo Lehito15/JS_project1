@@ -13,10 +13,10 @@ najbliższy mecz. Klikając przycisk "Symuluj kolejke" użytkownik dostaje komun
 Użytkownik w każdym momencie może zapisać stan gry i póżniej go wczytać.
 
 # Moduły
-League - klasa League odpowiedzialna za tworzenie ligi premier league, i zawiera metody dodające zawodników czy symylacje kolejki
-Team - klasa Team odpowiedzialna jest za poszczególny  zespół
-DataBase  - obsługa bazy danych
-scrapper.ipny - skrapowanie zawodników ze strony internetowej
+1. League - klasa League odpowiedzialna za tworzenie ligi premier league, i zawiera metody dodające zawodników czy symylacje kolejki
+2. Team - klasa Team odpowiedzialna jest za poszczególny  zespół
+3. DataBase  - obsługa bazy danych
+4. scrapper.ipny - skrapowanie zawodników ze strony internetowej
 
 
 
