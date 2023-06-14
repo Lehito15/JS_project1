@@ -28,7 +28,6 @@ class DataBase:
                     )
                 '''
 
-        # Wykonanie polecenia CREATE TABLE
         self.cursor.execute(create_table_league_query)
         create_team_table_query = '''
             CREATE TABLE IF NOT EXISTS Team (
@@ -96,8 +95,8 @@ class DataBase:
                             WHERE User.name = ? AND League.id = ?
                         """, (user_name,idL))
         league_info +=self.cursor.fetchall()
-        for info in league_info:
-            print(info)
+        # for info in league_info:
+        #     print(info)
         return league_info
     def check_user(self,user_name):
         query = "SELECT COUNT(*) FROM User WHERE name = ?"

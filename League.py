@@ -95,14 +95,8 @@ class League:
                 position = player[3]
                 team_name = player[4]
                 if self.code_of_team(team_name) != None:
-                    #print(f'ile {print(len(self.team_dict_objects))}')
                     team = self.team_dict_objects[self.code_of_team(team_name)]
                     team.add_player(Player.Player(player_name, int(overall), position, team))
-                # else:
-                #     #print(f'{team_name} {player_name}')
-                #
-                #     pass
-                # # print(f'{team.code}  {player_name}')
 
     def simulate_round(self):
         opponent = None
@@ -111,25 +105,14 @@ class League:
             team1, team2 = match
             # points = self.my_team.points
             if self.my_team.code in match:
-                # print(len(self.team_dict_objects[team1].starting_team))
-                print(f' moj ocer {self.my_team.avrage_overall()}')
-                # print(type(self.my_team.starting_team[0]))
-                print(f'punkty przed {points}')
-
-                # print(type(self.team_dict_objects[team1]))
                 if team1 == self.my_team.code:
                     self.team_dict_objects[team2].make_starting11()
                     m = Match.Match(self.team_dict_objects[team1], self.team_dict_objects[team2])
-                    # print(f'{self.team_dict[team1]} vs {self.team_dict[team2]}')
-                    # print(len(self.team_dict_objects[team2].starting_team))
-                    print(f'{self.team_dict[team1]} vs {self.team_dict[team2]}')
                     m.winner()
                     opponent = self.team_dict_objects[team2]
                 else:
                     self.team_dict_objects[team1].make_starting11()
                     m = Match.Match(self.team_dict_objects[team1], self.team_dict_objects[team2])
-                    # print(len(self.team_dict_objects[team1].starting_team))
-                    print(f'{self.team_dict[team1]} vs {self.team_dict[team2]}')
                     m.winner()
                     opponent = self.team_dict_objects[team1]
             else:
@@ -137,12 +120,9 @@ class League:
                 self.team_dict_objects[team2].make_starting11()
                 m = Match.Match(self.team_dict_objects[team1], self.team_dict_objects[team2])
                 m.winner()
-            # print(f'{self.team_dict_objects[team1].avrage_overall()}  {self.team_dict_objects[team1].name}')
-            # print(f'{self.team_dict_objects[team2].avrage_overall()}  {self.team_dict_objects[team2].name}')
 
         self.current_round += 1
         self.new_season()
-        print(f'po {self.my_team.points}')
         if points + 1 == self.my_team.points:
             return (0, opponent)
         elif points + 3 == self.my_team.points:

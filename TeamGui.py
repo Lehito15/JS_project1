@@ -1,7 +1,7 @@
 from PySide6 import QtCore, QtWidgets
 from PySide6.QtCore import Qt
 from PySide6.QtUiTools import QUiLoader
-from PySide6.QtWidgets import QListWidgetItem, QMessageBox
+from PySide6.QtWidgets import QListWidgetItem, QMessageBox, QSizePolicy
 import re
 import Team
 import League
@@ -23,18 +23,14 @@ class Team_gui(QtCore.QObject):
         self.ui1.pushButton.clicked.connect(self.simulate_rounds)
         self.ui1.save.clicked.connect(self.save_game)
 
-        # self.add_players()
-
     def show(self):
         self.ui1.show()
-        # self.add_players()
         self.league.add_players()
         self.add_players()
         print(self.league.my_team.name)
         self.set_defoult()
 
     def add_players(self):
-        print(f' ojo {self.league.my_team}')
         for player in self.league.my_team.players:
             item = QListWidgetItem()
             item.setText(f" {player.name},  {player.overall},  {player.position}")
@@ -49,7 +45,7 @@ class Team_gui(QtCore.QObject):
         if name:
             self.league.my_team.add_starting(self.league.my_team.find_player(name.group(1).strip()))
         else:
-          print(selected_player)
+            print(selected_player)
 
     def remove_player(self, player):
         selected_player = player.text()
@@ -62,7 +58,6 @@ class Team_gui(QtCore.QObject):
         else:
             print(selected_player)
 
-
     def simulate_rounds(self):
         if len(self.league.my_team.starting_team) != 11:
             QMessageBox.warning(None, "Błąd", "Twoja wyjściowa 11 nie jest kompletna")
@@ -71,9 +66,8 @@ class Team_gui(QtCore.QObject):
             self.ui1.round.setText(str(self.league.current_round))
             self.ui1.points.setText(str(self.league.my_team.points))
             self.league.teams = sorted(self.league.teams, key=lambda team: team.points, reverse=True)
-            self.ui1.pozycja.setText(str(self.league.teams.index(self.league.my_team)+1))
+            self.ui1.pozycja.setText(str(self.league.teams.index(self.league.my_team) + 1))
             self.ui1.next_match.setText(self.league.next_match())
-            print(who_wins[0])
             if who_wins[0] == 1:
                 self.win = Score_info.ScoreDialog(who_wins[1].name, 'green', 'Wygrałeś')
                 self.win.show()
@@ -95,10 +89,10 @@ class Team_gui(QtCore.QObject):
         self.ui1.pozycja.setText('...')
         self.ui1.next_match.setText(self.league.next_match())
 
-
     def save_game(self):
         db = DataBase.DataBase('baza.db')
         db.save_game(self.league.user, self.league.current_round, self.league.my_team.code, self.league.teams)
+
     def show_win_message(self):
         message_box = QMessageBox()
         message_box.setIcon(QMessageBox.Information)

@@ -51,7 +51,7 @@ class Team:
         return total_overall / 11
 
     def add_starting(self, player: Player):
-        print(type(player))
+        #print(type(player))
         self.starting_team.append(player)
 
     def remove_starting(self, player):
